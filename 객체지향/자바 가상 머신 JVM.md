@@ -2,7 +2,7 @@
 
 시스템 메모리를 관리하면서, 자바 기반 애플리케이션을 위해 이식 가능한 실행 환경을 제공한다.
 
-![./객체지향/image/jvm.png](./객체지향/image/jvm.png)
+![/객체지향/image/jvm.png](/객체지향/image/jvm.png)
 
 ## JVM 구성
 
@@ -39,7 +39,7 @@
 4. 로딩된 CLASS 파일들은 Execution engine 을 통해 해석
 5. 해석된 바이트 코드는 메모리 영역에 배치되어 실질적인 수행이 이루어진다. 이러한 실행 과정 속 jvm은 필요에 따라 스레드 동기화나 가비지 컬렉션 같은 메모리 관리 작업을 수행함
 
-![./객체지향/image/jvm01.png](./객체지향/image/jvm01.png)
+![/객체지향/image/jvm01.png](/객체지향/image/jvm01.png)
 
 ## Runtime Data Areas
 
@@ -83,7 +83,7 @@ Method Area는 클래스 데이터를 위한 공간이라면 Heap영역이 객�
 
 객체를 저장하는 가상 메모리 공간이다. (힙에 할당된 데이터들은 가비지컬렉터의 대상이 됨. JVM 성능 이슈에서 가장 많이 언급되는 공간임)
 
-![./객체지향/image/jvm02.png](./객체지향/image/jvm02.png)
+![/객체지향/image/jvm02.png](/객체지향/image/jvm02.png)
 
 1. new/young generation 
     1. eden →  객체들이 최초로 생성되는 공간
