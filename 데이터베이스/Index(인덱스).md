@@ -12,7 +12,7 @@ RDBMS에서 검색 속도를 높이기 위한 기술
 
 - 데이터 베이스 안의 레코드를 처음부터 풀스캔하지 않고, B+ tree로 구성된 구조에서 index 파일 검색으로 속도를 향상시키는 기술이다.
 
-![Index(%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A6%E1%86%A8%E1%84%89%E1%85%B3)%2068a83e268d4d4296ad63641fd9038cc1/Untitled.png](Index(%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A6%E1%86%A8%E1%84%89%E1%85%B3)%2068a83e268d4d4296ad63641fd9038cc1/Untitled.png)
+![Index(인덱스)/Untitled.png](Index(인덱스)/Untitled.png)
 
 # 파일 구성
 
