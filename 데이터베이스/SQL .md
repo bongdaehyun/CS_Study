@@ -65,7 +65,7 @@ SELECT "레코드명" FROM TABLE WHERE "레코드명" BETWEEN 50 AND 59
 
 ### INNER JOIN
 
-![SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled.png](SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled.png)
+![SQL/Untitled.png](SQL/Untitled.png)
 
 교집합, 중복된 값을 보여준다.
 
@@ -78,7 +78,7 @@ INNER JOIN JOIN_TABLE B ON A.NO_EMP = B.NO_EMP
 
 ### LEFT OUTER JOIN
 
-![SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%201.png](SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%201.png)
+![SQL/Untitled%201.png](SQL/Untitled%201.png)
 
 - 기준 테이블 값과 조인 테이블과 중복된 값을 보여준다.
 - 왼쪽 테이블 기준으로 JOIN을 한다~~
@@ -92,7 +92,7 @@ LEFT OUTER JOIN JOIN_TABLE B ON A.NO_EMP = B.NO_EMP
 
 ### RIGHT OUTER JOIN
 
-![SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%202.png](SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%202.png)
+![SQL/Untitled%202.png](SQL/Untitled%202.png)
 
 - LEFT OUTER JOIN과는 반대로 오른쪽 테이블기준으로 JOIN
 - 기준 테이블 값과 조인 테이블과 중복된 값을 보여준다.
@@ -106,7 +106,7 @@ RIGHT OUTER JOIN JOIN_TABLE B ON A.NO_EMP = B.NO_EMP
 
 ### FULL OUTER JOIN
 
-![SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%203.png](SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%203.png)
+![SQL/Untitled%203.png](SQL/Untitled%203.png)
 
 - 합집합
 
@@ -119,7 +119,7 @@ FULL OUTER JOIN JOIN_TABLE B ON A.NO_EMP = B.NO_EMP
 
 ### CROSS JOIN
 
-![SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%204.png](SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%204.png)
+![SQL/Untitled%204.png](SQL/Untitled%204.png)
 
 - 모든 경우의 수를 전부 표현해주는 방식
 - A =3 B=4 12개의 데이터 검색
@@ -133,7 +133,7 @@ CROSS JOIN JOIN_TABLE B
 
 ### SELF JOIN
 
-![SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%205.png](SQL%20e07d4fd7ebaa4428b94a2b996f2890d7/Untitled%205.png)
+![SQL/Untitled%205.png](SQL/Untitled%205.png)
 
 - 자기 자신과 자기 자신을 조인한다.
 - 하나의 테이블을 여러번 복사해서 조인~!
