@@ -2,9 +2,15 @@
 
 ![image/springvsboot.png](image/springvsboot.png)
 
+
+
+
 # 🗨️Spring
 
 - 자바 생태계에서 가장 대중적인 응용프로그램 개발 프레임 워크
+
+
+
 
 ## 등장 배경
 
@@ -19,6 +25,9 @@ c) 다른 프레임워크와의 통합
 
 ex) JUnit
 
+
+
+
 ## 특징
 
 1. DI(Dependency Injection) : 의존성 주입
@@ -26,10 +35,20 @@ ex) JUnit
 
 결합도를 낮추는 방식으로 어플리케이션을 개발!!! → 단위테스트가 용이
 
+
+
+
+
+
 # 💬 Spring boot
 
 - Transaction Manager, Hibernate Datasource, Entity Manager, Session Factory와 같은 설정을 하는데에 어려움이 많이 있었습니다
 - 최소한의 기능으로 Spring MVC를 사용하여 기본 프로젝트를 셋팅하는데 개발자에게 너무 많은 시간이 걸렸습니다.
+
+
+
+
+
 
 ## 문제 해결방법
 
@@ -61,6 +80,12 @@ ex) JUnit
 
 -. spring-boot-starter-data-rest: Expose Simple REST Services using Spring Data REST
 
+
+
+
+
+
+
 - **해결하고자 하는것**
 
 a) Auto Configuration 자동 실행
@@ -68,6 +93,10 @@ a) Auto Configuration 자동 실행
 b) 쉬운 의존성 관리
 
 c) 내장 서버
+
+
+
+
 
 # 요약
 
