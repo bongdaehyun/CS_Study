@@ -10,7 +10,7 @@ JVM 기반에서 웹개발을 하기 위한 명세이자 API → 웹 애플리�
 
 # 생명주기
 
-![Servlet%207dec163108584976942767b5e826499f/Untitled.png](Servlet%207dec163108584976942767b5e826499f/Untitled.png)
+![image/servlet.png](image/servlet.png)
 
 1. 초기화 : 서블릿의 인스턴스를 생성하고 리소스를 로드하는 등 클래스 생성자의 초기화 작업과 동일한 역할
 2. 서비스 : 클라이언트 요청에 따라 호출할 메서드를 결정
