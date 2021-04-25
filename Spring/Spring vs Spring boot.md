@@ -1,6 +1,6 @@
 # Spring vs Spring boot
 
-![Spring%20vs%20Spring%20boot%209e2a965a42984638b8ffd929de4b3760/Untitled.png](Spring%20vs%20Spring%20boot%209e2a965a42984638b8ffd929de4b3760/Untitled.png)
+![image/springvsboot.png](image/springvsboot.png)
 
 # 🗨️Spring
 
