@@ -127,7 +127,7 @@ public class XmlSpringApp {
 
 - XML 설정을 이용하려면 GenericXmlApplicationContext
 
-![Spring%20Framework%20305be84d3c1d466c84abe35003ca0907/Untitled.png](Spring%20Framework%20305be84d3c1d466c84abe35003ca0907/Untitled.png)
+![image/Inheritance.png](image/Inheritance.png)
 
 ## 스프링 JavaConfig
 
@@ -207,7 +207,7 @@ public void onDestroyed(){
 
 # 스프링 MVC
 
-![Spring%20Framework%20305be84d3c1d466c84abe35003ca0907/Untitled%201.png](Spring%20Framework%20305be84d3c1d466c84abe35003ca0907/Untitled%201.png)
+![image/flow.png](image/flow.png)
 
 스프링 mvc 요청 처리 흐름도
 
