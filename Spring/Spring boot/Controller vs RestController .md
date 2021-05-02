@@ -71,7 +71,7 @@ public class UserController {
 
 @RestController는 Spring MVC Controller에 @ResponseBody가 추가된 것입니다. 당연하게도 RestController의 주용도는 Json 형태로 객체 데이터를 반환하는 것입니다. 개인적으로는 VueJS + Spring boot 프로젝트를 진행하며 Spring boot를 API 서버로 활용할 때 또는 Android 앱 개발을 하면서 데이터를 반환할 때 사용하였습니다.
 
-![./Controller%20vs%20RestController%20/Untitled%202.png](./Controller%20vs%20RestController%20/Untitled%202.png)
+![./Controller%20vs%20RestController/Untitled%202.png](./Controller%20vs%20RestController/Untitled%202.png)
 
 1. Client는 URI 형식으로 웹 서비스에 요청을 보낸다.
 2. Mapping되는 Handler와 그 Type을 찾는 DispatcherServlet이 요청을 인터셉트한다.
