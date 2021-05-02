@@ -11,11 +11,14 @@
 - 객체와 인스턴스
 
 # ♠️데이터 베이스
+
 - key
-- 인덱스
-- sql
+- Index
+- Sql
 
+# ❤️ Spring
 
-#Spring
-- Spring vs boot
-- Spring Framework(MVC)
+- Servlet
+- Spring vs Spring boot
+- Spring Framwork
+- Spring boot
