@@ -22,7 +22,7 @@
 
 하지만 Spring MVC의 컨트롤러에서도 Data를 반환해야 하는 경우도 있습니다. Spring MVC의 컨트롤러에서는 데이터를 반환하기 위해 @ResponseBody 어노테이션을 활용해주어야 합니다. 이를 통해 Controller도 Json 형태로 데이터를 반환할 수 있습니다.
 
-![Controller%20vs%20RestController%20/Untitled%201.png](Controller%20vs%20RestController%20/Untitled%201.png)
+![Spring/Spring%20boot/Controller%20vs%20RestController/Untitled%201.png](Spring/Spring%20boot/Controller%20vs%20RestController/Untitled%201.png)
 
 1. Client는 URL 형식으로 웹서비스에 요청을 보낸다
 2. Mapping되는 Handler와 그 Type을 찾는 DIspatcherServlet이 요청을 인터셉트한다.
