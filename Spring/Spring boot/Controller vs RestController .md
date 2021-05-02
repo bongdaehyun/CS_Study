@@ -10,7 +10,7 @@
 
 전통적인 Spring MVC의 컨트롤러인 @Controller는 주로 View를 반환하기 위해 사용합니다
 
-![Spring/Spring%20boot/Controller%20vs%20RestController/Untitled.png](Spring/Spring%20boot/Controller%20vs%20RestController/Untitled.png)
+![./Controller%20vs%20RestController/Untitled.png](./Controller%20vs%20RestController/Untitled.png)
 
 1. Client는 URL 형식으로 웹서비스에 요청을 보낸다
 2. Mapping되는 Handler와 그 Type을 찾는 DispatcherServlet이 요청을 인터셉트한다.
