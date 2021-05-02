@@ -76,7 +76,7 @@ public class HomeController {
 
 - RestController는 데이터를 반환할때 사용, 별도의 뷰를 사용  X
 
-[Controller vs RestController](Spring%20boot%208c4ebb530c4e4bfd94e1d0a757f0fa81/Controller%20vs%20RestController%2070afeb35c59c4770a2c1fa1f679d190a.md)
+[Controller vs RestController](Spring%20boot/Controller%20vs%20RestController%20.md)
 
 ```java
 import org.springframework.boot.SpringApplication;
@@ -107,7 +107,7 @@ public class UIMain {
 
 즉, 웹 템플릿 엔진은 웹 템플릿들과 웹 컨텐츠 정보를 처리하기 위해 설계된 소프트웨어입니다. 웹 템플릿 엔진은 view code(html)와 data logic code(db connection)을 분리해주는 기능을 합니다.
 
-![Spring%20boot%208c4ebb530c4e4bfd94e1d0a757f0fa81/Untitled.png](Spring%20boot%208c4ebb530c4e4bfd94e1d0a757f0fa81/Untitled.png)
+![Spring%20boot/template.png](Spring%20boot/template.png)
 
 ## 템플릿 엔진의 필요성
 
