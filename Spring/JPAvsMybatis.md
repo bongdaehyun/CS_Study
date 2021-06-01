@@ -10,7 +10,7 @@
 - 데이터에 영속성을 부여해주는 계층
 - framework를 이용한 개발이 많이 이루어짐
 
-![JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled.png](JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled.png)
+![image/jpa.png](image/jpa.png)
 
 ### Persistence Framework
 
@@ -62,7 +62,7 @@ SQL을 명시, 단순히 필드를 매핑시키는 것이 목적
 
 # 1. JDBC
 
-![JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%201.png](JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%201.png)
+![image/jpa1.png](image/jpa1.png)
 
 - DB에 접근할 수 있도록 Java에서 제공하는 API
     - 모든 Java의 Data Access 기술의 근간
@@ -70,7 +70,7 @@ SQL을 명시, 단순히 필드를 매핑시키는 것이 목적
 
 # 2. JPA
 
-![JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%202.png](JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%202.png)
+![image/jpa2.png](image/jpa2.png)
 
 - 자바 ORM 기술에 대한 API 표준 명세로, java에서 제공하는 API이다
     - 응용프로그램에서 관계형 데이터베이스의 관리를 표현하는 자바 API
@@ -86,7 +86,7 @@ SQL을 명시, 단순히 필드를 매핑시키는 것이 목적
 
 # Hibernate
 
-![JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%203.png](JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%203.png)
+![image/jpa3.png](image/jpa3.png)
 
 - JDBC API가 메서드 내부에서 동작, 단지 개발자가 직접 SQL을 작성 X
 - HQL이라 불리는 매우 강력한 쿼리 언어를 포함
@@ -108,7 +108,7 @@ SQL을 명시, 단순히 필드를 매핑시키는 것이 목적
 
 # 3. Mybatis
 
-![JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%204.png](JPA%20vs%20Mybatis%2000356e9190344112b7cf12ccd811ab40/Untitled%204.png)
+![image/jpa4.png](image/jpa4.png)
 
 - 개발자가 지정한 SQL, 저장 프로시저 그리고 몇가지 고급 매핑을 지원
 - 빠른 개발과 편리한 테스트 환경을 제공 → JDBC로 처리하는 상당 부분 대신해줌
