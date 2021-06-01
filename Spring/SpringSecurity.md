@@ -13,14 +13,14 @@
 - 어노테이션을 통한 간단한 설정
 - Spring Security는 기본적으로 세션 & 쿠키방식으로 인증
 
-![Spring%20Security%2023b8367e58b6499abdcae76d56ce8925/Untitled.png](Spring%20Security%2023b8367e58b6499abdcae76d56ce8925/Untitled.png)
+![image/security.png](image/security.png)
 
 - **인증관리자** 와 **접근 결정 관리자**를 통해 사용자의 리소스 접근을 관리
 - 인증 관리자는**UsenamePasswordAuthenticationFilter** 접근 결정 관리자는**FilterSecurityInterceptor**
 
 ## 🍇기본 구조
 
-![Spring%20Security%2023b8367e58b6499abdcae76d56ce8925/Untitled%201.png](Spring%20Security%2023b8367e58b6499abdcae76d56ce8925/Untitled%201.png)
+![image/security1.png](image/security1.png)
 
 ## ✔️필터별 기능 설명
 
