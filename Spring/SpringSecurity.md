@@ -20,7 +20,7 @@
 
 ## 🍇기본 구조
 
-![image/security1.png](image/security1.png)
+![image/security2.png](image/security2.png)
 
 ## ✔️필터별 기능 설명
 
