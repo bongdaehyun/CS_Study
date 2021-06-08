@@ -5,7 +5,7 @@
 - 무한 반복, 지루한 코드
 - 기본 CRUD에 대한 코드를 테이블마다 생성하여 제작
 
-![JPA%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20b5df52562e3d4f8e85ba346472ea6f4d/Untitled.png](JPA%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20b5df52562e3d4f8e85ba346472ea6f4d/Untitled.png)
+![./JPAE1%84%89%E1%85%A9%E1%84%80%E1%85%A2/Untitled.png](./JPAE1%84%89%E1%85%A9%E1%84%80%E1%85%A2/Untitled.png)
 
 Mybatis
 
