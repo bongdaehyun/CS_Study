@@ -57,11 +57,11 @@
 
 - `JPA는 특정 데이터베이스에 종속 X`
 
-![JPA%20%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%209d2c7657a7fb4cd886e95f8db2750f3b/Untitled.png](JPA%20%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%209d2c7657a7fb4cd886e95f8db2750f3b/Untitled.png)
+![./JPA02/Untitled.png](./JPA02/Untitled.png)
 
 # JPA 구동 방식
 
-![JPA%20%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%209d2c7657a7fb4cd886e95f8db2750f3b/Untitled%201.png](JPA%20%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%209d2c7657a7fb4cd886e95f8db2750f3b/Untitled%201.png)
+![./JPA02/Untitled%201.png](./JPA02/Untitled%201.png)
 
 ## 주의
 
