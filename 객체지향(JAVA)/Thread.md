@@ -2,24 +2,24 @@
 
 # 쓰레드
 
-![Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled.png](Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled.png)
+![./image/thread.png](./image/thread.png)
 
 - 멀티 태스킹
     - 프로세스란  운영체제에서 실행중인 하나의 프로그램
 
-        ![Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%201.png](Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%201.png)
+        ![./image/thread1.png](./image/thread1.png)
 
     - 멀티 프로세스란 두 개 이상의 프로세스가 실행되는 것
     - 멀티 태스킹이란 두 개 이상의 프로세스를 실행하여 일을 처리
 - 멀티 쓰레드
     - 스레드란 프로세스 내에서 실행되는 세부 작업 단위
 
-        ![Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%202.png](Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%202.png)
+        ![./image/thread2.png](./image/thread2.png)
 
     - 멀티스레드란 하나의 프로세스에서 여러 개의 스레드가 병행적으로 처리되는 것
 - 스레드의 생성 방법
 
-    ![Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%203.png](Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%203.png)
+    ![./image/thread3.png](./image/thread3.png)
 
     - Thread 클래스를 상속 받는 방법
     - Runnable 인터페이스를 구현하는 방법
@@ -27,7 +27,7 @@
 
 ## 생명주기
 
-![Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%204.png](Thread%206a5c1849e83b4b48b1b09c7ad7fea21a/Untitled%204.png)
+![./image/thread4.png](./image/thread4.png)
 
 ## 쓰레드 스케줄러
 
