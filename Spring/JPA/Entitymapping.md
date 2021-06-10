@@ -32,7 +32,7 @@
 
 - 엔티티와 매핑할 테이블 지정
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled.png)
+![./JPA04/Untitled.png](./JPA04/Untitled.png)
 
 ```java
 @Entity
@@ -75,7 +75,13 @@ public class Member {
 - 개발장비에서만 사용
 - 생성된 DDL은 운영서버에서 X 다듬은 후 사용
 
+<<<<<<< HEAD
 ![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%201.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%201.png)
+=======
+[속성 - hibernate.hbm2ddl.auto](https://www.notion.so/5db74fc1dec94ac6982c49f85ea437aa)
+
+![./JPA04/Untitled%201.png](./JPA04/Untitled%201.png)
+>>>>>>> bbab84b196793c7b8fb432bce39f506b0f2997fa
 
 ![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%202.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%202.png)
 
@@ -220,7 +226,11 @@ public class Member {
 
 - SequenceGenerator
 
+<<<<<<< HEAD
 ![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%206.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%206.png)
+=======
+![./JPA04/Untitled%204.png](./JPA04/Untitled%204.png)
+>>>>>>> bbab84b196793c7b8fb432bce39f506b0f2997fa
 
 ### TABLE 전략
 
