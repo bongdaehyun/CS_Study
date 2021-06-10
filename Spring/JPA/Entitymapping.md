@@ -32,7 +32,7 @@
 
 - 엔티티와 매핑할 테이블 지정
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled.png)
+![./JPA04/Untitled.png](./JPA04/Untitled.png)
 
 ```java
 @Entity
@@ -77,7 +77,7 @@ public class Member {
 
 [속성 - hibernate.hbm2ddl.auto](https://www.notion.so/5db74fc1dec94ac6982c49f85ea437aa)
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%201.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%201.png)
+![./JPA04/Untitled%201.png](./JPA04/Untitled%201.png)
 
 `<property name="hibernate.hbm2ddl.auto" value="create" />` xml에 적어서 사용 가능
 
@@ -220,7 +220,7 @@ public class Member {
 
 - SequenceGenerator
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%204.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%204.png)
+![./JPA04/Untitled%204.png](./JPA04/Untitled%204.png)
 
 ### TABLE 전략
 
