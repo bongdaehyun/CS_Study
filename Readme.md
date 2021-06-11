@@ -22,3 +22,11 @@
 - Spring vs Spring boot
 - Spring Framwork
 - Spring boot
+- RestAPI
+- JPA vs Mybatis
+- JWT
+- 데이터베이스 프로그래밍(ORM)
+- 배포
+- 어노테이션
+- 자바예외처리
+- JPA
