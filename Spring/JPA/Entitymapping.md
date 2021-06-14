@@ -75,15 +75,10 @@ public class Member {
 - 개발장비에서만 사용
 - 생성된 DDL은 운영서버에서 X 다듬은 후 사용
 
-<<<<<<< HEAD
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%201.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%201.png)
-=======
-[속성 - hibernate.hbm2ddl.auto](https://www.notion.so/5db74fc1dec94ac6982c49f85ea437aa)
-
 ![./JPA04/Untitled%201.png](./JPA04/Untitled%201.png)
->>>>>>> bbab84b196793c7b8fb432bce39f506b0f2997fa
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%202.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%202.png)
+
+![./JPA04/Untitled%202.png](./JPA04/Untitled%202.png)
 
 `<property name="hibernate.hbm2ddl.auto" value="create" />` xml에 적어서 사용 가능
 
@@ -127,7 +122,7 @@ public class Member {
 - (uniqe 는 이름이 랜덤성으로 생성되어서 잘 사용X)
 - 컬럼 매핑
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%203.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%203.png)
+![./JPA04/Untitled%203.png](./JPA04/Untitled%203.png)
 
 ## @Enumerated
 
@@ -199,11 +194,11 @@ public class Member {
  private Long id;
 ```
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%204.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%204.png)
+![./JPA04/Untitled%204.png](./JPA04/Untitled%204.png)
 
 - insert 시에는 null이지만 DB에서 알아서 숫자 넣어줌
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%205.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%205.png)
+![./JPA04/Untitled%205.png](./JPA04/Untitled%205.png)
 
 ### SEQUENCE 전략
 
@@ -226,11 +221,8 @@ public class Member {
 
 - SequenceGenerator
 
-<<<<<<< HEAD
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%206.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%206.png)
-=======
-![./JPA04/Untitled%204.png](./JPA04/Untitled%204.png)
->>>>>>> bbab84b196793c7b8fb432bce39f506b0f2997fa
+![./JPA04/Untitled%206.png](./JPA04/Untitled%206.png)
+
 
 ### TABLE 전략
 
@@ -254,6 +246,6 @@ public class Member {
 
 - TableGenerator
 
-![Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%207.png](Entitymapping%2009aa4c3ac2a14e76b34b9c7201aadb0a/Untitled%207.png)
+![./JPA04/Untitled%207.png](./JPA04/Untitled%207.png)
 
 ---
