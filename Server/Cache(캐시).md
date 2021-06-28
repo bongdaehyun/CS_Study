@@ -7,7 +7,7 @@
 - 자주 사용하는 데이터나 값을 미리 복사해 놓는 임시 장소
 - 저장공간이고 작고 비용이 비싼 대신 빠른 성능을 제공
 
-![Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled.png](Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled.png)
+![./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)/Untitled.png](./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)/Untitled.png)
 
 ## Cache 고려사항
 
@@ -23,12 +23,12 @@
 
 ## 필요성
 
-![Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled%201.png](Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled%201.png)
+![./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled%201.png](./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled%201.png)
 
 - Long Tail 법칙의 그래프 : 20%의 요구가 시스템 리소스의 대부분을 사용한다는 법칙
 - 20%기능에 Cache를 이용함으로써 리소스사용량을 대폭 줄이고 성능을 대폭 향상
 
-![Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled%202.png](Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled%202.png)
+
 
 # Local Cache vs Global Cache
 
