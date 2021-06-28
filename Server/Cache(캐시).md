@@ -7,7 +7,7 @@
 - 자주 사용하는 데이터나 값을 미리 복사해 놓는 임시 장소
 - 저장공간이고 작고 비용이 비싼 대신 빠른 성능을 제공
 
-![./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled.png](./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)%2054f96e4a1d6649eb8d4bb3d257952eb5/Untitled.png)
+![./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)/Untitled.png](./Cache(%E1%84%8F%E1%85%A2%E1%84%89%E1%85%B5)/Untitled.png)
 
 ## Cache 고려사항
 
