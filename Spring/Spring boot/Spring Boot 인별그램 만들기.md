@@ -171,4 +171,4 @@ public void delete(@PathVariable int uid,@RequestBody Map<String,Object>body){
 
 # 🖕결과
 
-![Spring%20Boot%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2024bef87532fa46dca3b07b5bd6a2733e.png](Spring%20Boot%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2024bef87532fa46dca3b07b5bd6a2733e.png)
+![./instar/result.png](./instar/result.png)
