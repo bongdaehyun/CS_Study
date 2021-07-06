@@ -232,7 +232,7 @@ public class JwtTokenProvider {
 
 - jwt.io를 이용하여 생성된 jwt 토큰을 확인
 
-![JWT%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%205de4c9f3d3a848bdaa7b06fb5e2981f4/Untitled.png](JWT%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%205de4c9f3d3a848bdaa7b06fb5e2981f4/Untitled.png)
+![./image/jwt.png](./image/jwt.png)
 
 # Security +JWT
 
