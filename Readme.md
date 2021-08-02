@@ -35,3 +35,7 @@
 
 - cache
 - WAS vs Web SERVER
+
+# OS
+- 스케줄링
+- 메모리 관리
