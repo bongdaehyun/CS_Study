@@ -14,7 +14,7 @@ CORS는 특정 헤더를 통해서 브라우저에게 **한 출처(origin)** 에
 
 # CORS 작동 방식
 
-![CORS%2044649607959a41c4a1aaac04bd255745/Untitled.png](CORS%2044649607959a41c4a1aaac04bd255745/Untitled.png)
+![CORS%2044649607959a41c4a1aaac04bd255745/Untitled.png](image/CORS.png)
 
 ## Preflight request(사전 요청)
 
