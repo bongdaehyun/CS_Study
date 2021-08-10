@@ -2,7 +2,7 @@
 
 # REST
 
-![REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled.png](REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled.png)
+![REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled.png](image/rest.png)
 
 ## 정의
 
@@ -64,7 +64,7 @@ HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고
 
 # REST API
 
-![REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled%201.png](REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled%201.png)
+![REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled%201.png](image/rest1.png)
 
 > API : 데이터와 기능의 집합을 제공하여 컴퓨터 프로그램간 상호작용을 촉진하며, 서로 정보를 교환 가능하도록 하는 것
 
@@ -73,7 +73,7 @@ REST API의 정의
 - REST 기반으로 서비스 API를 구현한 것
 - 최근 OpenAPI, 마이크로 서비스 등을 제공하는 업체 대부분은 REST API를 제공
 
-![REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled%202.png](REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled%202.png)
+![REST%E1%84%8B%E1%85%AA%20RESTFUL%2024d6b254003a4df4b7050fbd39ee9451/Untitled%202.png](image/rest2.png)
 
 ## 특징
 
