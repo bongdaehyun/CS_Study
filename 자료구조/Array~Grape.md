@@ -18,7 +18,7 @@
 
 ## Linked List
 
-![Untitled](10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20c20f13a516b448f3a598fe2a0a5df1e1/Untitled.png)
+![Untitled](image/linkedlist.png)
 
 각 노드가 **데이터와 포인터**를 가지고 일렬로 연결되어 있는 방식
 
